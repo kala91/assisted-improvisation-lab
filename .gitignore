@@ -1,0 +1,14 @@
+# Local operator and agent instructions. These must stay off the public site/repo.
+AGENT.md
+AGENTS.md
+
+# Local drafts and private intake material.
+.local/
+inbox-private/
+drafts-private/
+
+# Common OS/editor noise.
+.DS_Store
+Thumbs.db
+*~
+*.swp
