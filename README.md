@@ -13,7 +13,7 @@ The project collects:
 ## Operating Model
 
 Aleksi provides high-level direction, field notes, photos, screenshots, rough drafts, and project reflections.
-Vadelma maintains the site structure, edits material into publishable form, and keeps the repository organized.
+The public site edits this material into a structured method library, prototype archive, and workshop-facing presentation.
 
 ## Local Preview
 
